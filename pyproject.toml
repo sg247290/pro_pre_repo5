@@ -1,0 +1,7 @@
+[project]
+name = "pro-pre-repo3"
+version = "0.1.0"
+
+dependencies = [
+    "predikit>=0.4.1"
+]
